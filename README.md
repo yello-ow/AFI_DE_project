@@ -24,6 +24,22 @@
   - ML/DL 연구를 위한 데이터 ETL 파이프라인 구축
   <br>
   
+  ## 데이터 파이프라인 
+  <img width="600" src="https://user-images.githubusercontent.com/86868063/152541959-fc00237e-9bc4-4591-8c6c-177ceec3b86d.png">
+  <br>
+  
+  ## 프로젝트 과정 
+  <br>
+  
+  ## 프로젝트 결과 
+  
+  
+  
+  
+  
+  
+  
+
  
   
   <br>
@@ -31,5 +47,3 @@
  
   <br>
 
-
- </div>
